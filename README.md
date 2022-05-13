@@ -3,4 +3,5 @@ This project is aimed at promoting democracy in world.
 India is a democracy.
 America is a Democracy.
 Pakistan is not a Democracy.
-I am actually the one who not the one
+
+Bhutan too is not a Democracy.
